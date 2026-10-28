@@ -1,0 +1,19 @@
+Package: netron-browser
+Architecture: all
+Version: 1.7.0
+Priority: optional
+Section: web
+Maintainer: Adam <adam@example.com>
+Depends: python3 (>= 3.7), python3-gi, gir1.2-webkit2-4.1, gir1.2-gtk-3.0, gir1.2-pango-1.0, gir1.2-gdkpixbuf-2.0, gir1.2-notify-0.7, python3-bs4, python3-lxml, yt-dlp | youtube-dl, mpv
+Recommends: xdg-utils
+Filename: pool/main/netron-browser_1.7.0_all.deb
+Size: 23226
+MD5sum: dd42105cbba42ec2319dd28fbcf3c76e
+SHA1: fa033b9bb3a18603e56b07012644b76cae2b342e
+SHA256: 7d4bbf77d261f6adc8161c9c72b764541dcf16a6db8bc2b45e79c2e7b702412e
+SHA512: 378f640f3cebf0d299c8960adf9cbf542d6ad7c612b65b78b9a3d1790583fb4a8b76a1cdba24c18ea18c889c9a9b9402a15442e6bf33a358cf488f999de3eab9
+Description: Lightweight WebKitGTK browser with yt-dlp integration
+ A minimal browser designed for low-end hardware, featuring
+ ad blocking, tabbed browsing, bookmarks, history, session restore,
+ per-site zoom, theme support, and YouTube-to-mpv redirection.
+

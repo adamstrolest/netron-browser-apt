@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Netron Browser
+Label: Netron Browser
+Suite: stable
+Codename: stable
+Architectures: all i386
+Components: main
+Description: Netron Browser APT repository
+Date: Wed, 28 Oct 2026 15:44:32 GMT
+MD5Sum:
+ 4b434836a2d5d954d212b34452d12040              951 main/binary-all/Packages
+ 4ba78c3824bad3cab846ce021402e13d              653 main/binary-all/Packages.gz
+ 4b434836a2d5d954d212b34452d12040              951 main/binary-i386/Packages
+ 4ba78c3824bad3cab846ce021402e13d              653 main/binary-i386/Packages.gz
+SHA1:
+ 014401c8f581fc5bf8d1dda1fe6b8d6d697bbdbe              951 main/binary-all/Packages
+ eaba7d130b0fb95879fdbb1837562e1cb12a5f1c              653 main/binary-all/Packages.gz
+ 014401c8f581fc5bf8d1dda1fe6b8d6d697bbdbe              951 main/binary-i386/Packages
+ eaba7d130b0fb95879fdbb1837562e1cb12a5f1c              653 main/binary-i386/Packages.gz
+SHA256:
+ 2c9893d0559a25b4a1be933f6b3db4629073c2f7958759ca242448cbe30806ca              951 main/binary-all/Packages
+ c77e68842612a6da1f67328d583a83ddd1b5ab20b4604b4deb65262ee8f56784              653 main/binary-all/Packages.gz
+ 2c9893d0559a25b4a1be933f6b3db4629073c2f7958759ca242448cbe30806ca              951 main/binary-i386/Packages
+ c77e68842612a6da1f67328d583a83ddd1b5ab20b4604b4deb65262ee8f56784              653 main/binary-i386/Packages.gz
+SHA512:
+ b28d62d1cbbedeba1833fe3f5edd6e11f6979ed71cb820ee172b2ad3acbe2396de10d93bfe3e1c41b6f338e6cd7b9d287ab72e6b4e9b518fe57a840f10c4895e              951 main/binary-all/Packages
+ abac17e2b9db5634ce2718a98dbfb64cd9c7bc891bdf5d5a65add66597bcd69054dc0641235a45b18653ca7727c2087d8bca6b2111c64decb424fa6dd5ba372e              653 main/binary-all/Packages.gz
+ b28d62d1cbbedeba1833fe3f5edd6e11f6979ed71cb820ee172b2ad3acbe2396de10d93bfe3e1c41b6f338e6cd7b9d287ab72e6b4e9b518fe57a840f10c4895e              951 main/binary-i386/Packages
+ abac17e2b9db5634ce2718a98dbfb64cd9c7bc891bdf5d5a65add66597bcd69054dc0641235a45b18653ca7727c2087d8bca6b2111c64decb424fa6dd5ba372e              653 main/binary-i386/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEsUXzPTQVERWz/wvpBgcV/r6Hk9oFAmriGGAACgkQBgcV/r6H
+k9oMhQ/+KE+JaaKCXiu/FHDZuq6d4RCO7dXbr/0LkvTIaf6SXj+1M868WUqbDAYB
+uqjVcYivAxwOb7mOPaWgAB8VNJeUsfZqK8bByvDn+hEeJk8vzIjxYxHfxoFLrntR
+qGwk+DmJhmQJ3hG/zNrkO5VEc4xrIEARMmHgnPEOSOvADl/JjSobJpZ7LrHDlBOS
+BcD0tJr5akwAOMp0ifcrWBAosX7/hKeYwURPzxE/dz3I8ULXISFYkFDlNNGf+l7/
+xc2duxcwprGtnQgyasWG7qMPUJMYEOKew6TfDKScKOK1NWA68GGUeCaV18/izKRA
+Bop9f5dOjkUmPtQUazsMsuSA9+dHJfn7IE9nhNvbs5UmdTGBOrAIvprZoX24v/r8
+BLHUTEMN+DIkizWdj3sH2YNQXgT/YSMFLv3HHDsqPxtZ7pEZZGDgnf6xKizz3yNE
+cuYg2Sj7N+Xl7a4XBNFDSJOhHzrA0edhV/r/CQsMTQ/G3ROndvcn4EPhXgPIW1nC
+wO2mTD7KanKKWZg9wjNgcuCaa3adjYUiSQjkckbY6PCp0AyKMOsUifq7cMHw3AXn
+e0RT4F6cXx8zpwR1yJyKZrK77lMMGplM7qaecpjiqTrs3Y2jDqbw6PX8WlX+OJT0
+9YFxJ8ET9FnTBIPGJsL0KFWVW0kuWtLlbJIV4OXYEg5yJALy0OU=
+=SlZc
+-----END PGP SIGNATURE-----
